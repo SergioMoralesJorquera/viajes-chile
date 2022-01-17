@@ -1,0 +1,114 @@
+body{
+    background-color: #000000;
+    font-family: Helvetica;
+}
+
+.faviconForma{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.navbar-brand{
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight:400;
+}
+
+#Footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.favicon {
+    padding-right: 5px;
+    width: 33px;
+    height: 33px;
+}
+
+#QuienesSomos{
+    background-color: black;
+    font-family: Arial;
+}
+
+#QuienesSomos h1{
+    background-color: black;
+    font-weight: 100;
+    font-size: 35px;
+    color:#ffffff;
+}
+
+#QuienesSomos p{
+    font-family: Arial;
+    font-size: 17px;
+}
+
+.iconos {
+    text-align: center;
+}
+
+.iconos i {
+   color: #ffffff;
+}
+
+.hero-line { 
+    width: 100%;
+    opacity: 1;
+}
+
+#Destacados {
+    background-color: black;
+}
+
+#Destacados h2 {
+    font-weight: 100;
+    font-size: 35px;
+    color:#ffffff;
+
+}
+
+#Destacados div:last-child article h4:first-child {
+    font-family: "Arial";
+    font-size: 20px;
+    font-weight: 100;
+}
+
+#Destacados div:last-child article p:last-child {
+    font-family: "Open Sans";
+    font-weight: 300;
+}
+
+#Contacto .caja{
+    width: 98%;
+    margin: auto;
+}
+
+#Contacto h2{
+    font-weight: 100;
+    font-size: 35px;
+    color:#ffffff;
+}
+
+#Contacto p{
+    font-weight: 300;
+    font-size: 30px;
+}
+
+
+.img-p{
+    height: 18em;
+}
+
+.caja {
+    background-color: #ffffff;
+    padding: 10%;
+}
+
+.pulsa {
+    color: #000000;
+}
+
+#Footer h3{
+    font-size: 35px;
+    font-weight:400;
+}
+
