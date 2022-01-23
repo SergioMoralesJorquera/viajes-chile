@@ -73,9 +73,14 @@ body{
 }
 
 #Destacados div:last-child article p:last-child {
-    font-family: "Open Sans";
+    font-family: "Helvetica";
     font-weight: 300;
 }
+.imagenTamaño{
+    width: 100%;
+    height: 100%;
+}
+
 
 #Contacto .caja{
     width: 98%;
